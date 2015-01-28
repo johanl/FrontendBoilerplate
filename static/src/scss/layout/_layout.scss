@@ -1,0 +1,94 @@
+
+//====================================================================
+// GRID //
+//====================================================================
+// Susy settings
+$susy : (
+    columns:12,
+    gutters: 47/60,
+    debug: (
+        color: rgba(red, 0.05),
+      ),
+);
+
+
+
+.pagecontainer {
+	width : 100%;
+	background-color : #fff;
+
+	@include container( $max-width);
+	.no-mq & {
+		max-width : $lt-ie9-Maxwidth;
+		width : $lt-ie9-Maxwidth;
+	}
+}
+.layout-gridContainer {
+	padding : 0 20px;
+	//@include show-grid(show-columns);
+	width : 100%;
+
+	@include container( full);
+	@extend %cl;
+	@include breakpoint($desktop) {
+		@include container( $max-width--content + 40px);
+	}
+}
+
+
+.gridModule-1up {
+	.col {
+		@include span(full);
+	}
+}
+.gridModule-2up {
+	.col {
+		@include gallery(6 of 12);
+	}
+}
+.gridModule-3up {
+	.col {
+		@include gallery(4 of 12);
+	}
+}
+.gridModule-4up {
+	.col {
+		@include gallery(3 of 12);
+	}
+}
+
+.gridModule-fullwidth {
+	@include span(full);
+}
+.gridModule-A {
+	.col-1 {
+		@include span(8);
+	}
+	.col-2 {
+		@include span(4 at 9);
+	}
+	&--reverse {
+		.col-1 {
+			@include span(4);
+		}
+		.col-2 {
+			@include span(8 at 5);
+		}
+	}
+}
+.gridModule-B {
+	.col-1 {
+		@include span(4);
+	}
+	.col-2 {
+		@include span(4 at 5);
+	}
+	.col-3 {
+		@include span(4 at 9);
+	}
+}
+
+
+//====================================================================
+// Layout
+//====================================================================

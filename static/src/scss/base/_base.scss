@@ -1,0 +1,86 @@
+// base
+//====================================================================
+body{
+    font-size: 62.5%;
+    line-height: $base-line-height;
+    @include font-size ($base-font-size);
+}
+
+p,
+ul,
+ol,
+table,
+form,
+figure{
+    margin-bottom: $base-margin;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p{
+
+}
+
+// Headings
+// -------------------------
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6{
+    font-family: $headingFontFamily;
+    margin-bottom: $base-margin;
+}
+h1, .h1{
+    @include font-size ($h1-size);
+}
+h2, .h2{
+    @include font-size ($h2-size);
+}
+h3, .h3{
+    @include font-size ($h3-size);
+}
+h4, .h4{
+    @include font-size ($h4-size);
+}
+h5, .h5,
+h6, .h6{
+    @include font-size ($h5-size);
+}
+
+
+// MEDIA ELEMENTS
+// -------------------------
+figure{
+
+}
+
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+object{
+    max-width: 100%;
+}
+video{
+    display: block;
+    margin: $base-spacing-unit 0;
+    border-image-width:1px;
+}
+
+
+
+// Link color
+// -------------------------
+a {
+    color: $link-color;
+    &:hover,
+    &:focus {
+        color: $link-color-hover;
+        text-decoration: underline;
+    }
+}

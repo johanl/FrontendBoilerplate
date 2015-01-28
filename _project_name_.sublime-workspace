@@ -1,0 +1,1806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cl	clear: both"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"cur",
+				"cur-ha	cursor: hand;"
+			],
+			[
+				"bbs",
+				"bbs	border-bottom-style: style"
+			],
+			[
+				"com",
+				"com	comment small"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pbi",
+				"pgbi-av	page-break-inside: avoid;"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"td",
+				"td-u	text-decoration: underline;"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"c",
+				"cu	cursor: default"
+			],
+			[
+				"brsn",
+				"bdrst-n	border-right-style: none;"
+			],
+			[
+				"o",
+				"o	overflow: hidden"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"a",
+				"a:	a (link)"
+			],
+			[
+				"fw",
+				"fw	font-weight: normal"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"js-checkboxgroup",
+				"js-checkboxGroup--for-demokrati"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"bgc",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"bs",
+				"bs	border-style: none"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ipsum",
+				"ipsum	<p>lorem</p> x 2"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"d",
+				"d	div class"
+			],
+			[
+				"op",
+				"opacity	opacity()"
+			],
+			[
+				"cu",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"lst",
+				"lst	list-style-type: decimal"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"aktualitet",
+				"atoms-aktualitet--small"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"opac",
+				"opacity	opacity()"
+			],
+			[
+				"brs",
+				"brsn	border-right-style: none"
+			],
+			[
+				"rig",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ti",
+				"text-indent"
+			],
+			[
+				"bgip",
+				"background-position"
+			],
+			[
+				"ba",
+				"base-spacing-unit"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"bas",
+				"base-line-height"
+			],
+			[
+				"js",
+				"js-collapsible__trigger"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"lh",
+				"lh	line-height"
+			],
+			[
+				"bg",
+				"bgi	background-image: url(${0});"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"test",
+				"test	form"
+			],
+			[
+				"dolor",
+				"dolor	<p>lorem</p> x 2"
+			],
+			[
+				"po",
+				"pos-f	position: fixed;"
+			],
+			[
+				"ta",
+				"ta	text-align: left"
+			],
+			[
+				"rg",
+				"rgb	rgb()"
+			],
+			[
+				"v",
+				"v	visibility: visible"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"mh",
+				"mah	max-height"
+			],
+			[
+				"bds",
+				"bds-n	border-style: none;"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"mr",
+				"mr	margin-right"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bgp",
+				"bgpx	background-position-x"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"qu",
+				"quarter-spacing-unit"
+			],
+			[
+				"rgba",
+				"rgba	rgba()"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"bb",
+				"bb	border-bottom"
+			],
+			[
+				"base",
+				"base-spacing-unit"
+			],
+			[
+				"ha",
+				"half-spacing-unit"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"ov",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"grey",
+				"spriteIconSmart--bullit-circle-grey"
+			],
+			[
+				"fl",
+				"fl	float: right"
+			],
+			[
+				"tt",
+				"tt	text-transform: upper"
+			],
+			[
+				"lorem",
+				"lorem	<p>lorem</p> x 1"
+			],
+			[
+				"b",
+				"block	(b)"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"l",
+				"left	(l)"
+			],
+			[
+				"bor",
+				"border-bottom	zen:css_properties"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static/src/kit/index.kit",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/index.html",
+			"settings":
+			{
+				"buffer_size": 2051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/src/kit/meta/_head.kit",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/src/kit/meta/_foot.kit",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/style.css",
+			"settings":
+			{
+				"buffer_size": 29989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/src/scss/tools/_revenge.scss",
+			"settings":
+			{
+				"buffer_size": 15146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/src/kit/data/_data.kit",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"mail",
+				"Snippet: a mailto"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: Johans Kitchen Sink"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet: form",
+				"Snippet: form"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: co",
+				"Snippet: comment, endast linje"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:ki",
+				"Snippet: Johans Kitchen Sink"
+			],
+			[
+				"w",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"snippet: tab",
+				"Snippet: table medium"
+			],
+			[
+				"snippet: t",
+				"Snippet: table large"
+			],
+			[
+				"Snippet: ",
+				"Snippet: + Shortcut to Include spriteIcon"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/johanl/webpages/FrontendBoilerplate",
+		"/Users/johanl/webpages/FrontendBoilerplate/bower_components",
+		"/Users/johanl/webpages/FrontendBoilerplate/bower_components/font-awsome",
+		"/Users/johanl/webpages/FrontendBoilerplate/static",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/js",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/src",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/src/scss",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/src/scss/tools"
+	],
+	"file_history":
+	[
+		"/Users/johanl/webpages/FrontendBoilerplate/static/src/kit/about.kit",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/about.html",
+		"/Users/johanl/webpages/FrontendBoilerplate/static/src/scss/style.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/_layout.scss",
+		"/Users/johanl/webpages/ripo-git/public/js/rk-main.js",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_rss.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_compass-sprites.scss",
+		"/Users/johanl/webpages/ripo-git/core/lib/Mustache/Compiler.php",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_collapsible.scss",
+		"/Users/johanl/webpages/ripo-git/CHANGELOG",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/00-meta/_00-head.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/02-organisms/00-global/00-header.mustache",
+		"/Users/johanl/webpages/ripo-git/source/js/rk-main.js",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/04-templates/56-ordforklaring/00-innehallsida--ord.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/generic/_helperClasses.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/40-forms/_10-CheckboxSort-form.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/40-forms/_12-CheckboxSort-form--sender.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/40-forms/_11-CheckboxSort-form--politik.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/gui/_header.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/base/_hr.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/base/_base.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/gui/_footer.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_form.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_figure--figcaption.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/susy/susy/language/susy/_gallery.scss",
+		"/Users/johanl/webpages/ripo-git/core/lib/Mustache/Loader/ArrayLoader.php",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/10-layout/40-gridModule-A.mustache",
+		"/Users/johanl/Downloads/Highcharts-4.0.4/js/themes/grid.js",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/50-betaversion/00-start-beta.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/50-betaversion/00-start-beta.json",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/breakpoint-sass/stylesheets/breakpoint/_helpers.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/generic/_clearfix.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_island.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/04-icons-logo/50-icons.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/_mixins.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_forms--parsley--validate.scss",
+		"/Users/johanl/webpages/ripo-git/public/patterns/01-molecules-00-text-00-paragraph-small/01-molecules-00-text-00-paragraph-small.html",
+		"/Users/johanl/webpages/ripo-git/public/js/vendor/parsley.js",
+		"/Users/johanl/webpages/ripo-git/source/scss/tools/_print.scss",
+		"/Users/johanl/webpages/ripo-git/public/js/vendor/parsley--local--sv.js",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_pagination.scss",
+		"/Users/johanl/webpages/ripo-git/source/_data/_data.json",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/00-text/20-help-button.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--colors.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_buttons.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_60-tabs--secondo--pressinformation.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_40-tabs--secondo--gamma.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_30-tabs--secondo--beta.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/00-tabs--primo--press.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/10-tabs--primo--beta.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_00-tabs--primo--alpha.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_15-tabs--primo--gamma.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/51-sortTabs/_20-tabs--secondo--alpha.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--opensans.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--typography.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/04-templates/17-template--kalenderhandelse@complete.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/04-templates/15-template--innehallsida@complete.mustache",
+		"/Users/johanl/webpages/ripo-git/core/source/css/scss/objects/_icons.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/font-awesome/_icons.scss",
+		"/Users/johanl/webpages/ripo-git/core/source/fonts/icons.dev.svg",
+		"/Users/johanl/webpages/ripo-git/core/source/fonts/icons.woff",
+		"/Users/johanl/webpages/ripo-git/core/source/fonts/icons.svg",
+		"/Users/johanl/webpages/ripo-git/core/templates/partials/ishControls.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/04-templates/15-template--innehallsida~kitchensink@complete.json",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_sprites.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/20-blocks/_90-block-vcard.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/style.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/30-media/10-media--contact.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/susy/susy/language/susy/_context.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/susy/susy/output/float/_container.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/susy/susy/output/shared/_container.scss",
+		"/Users/johanl/webpages/ripo-git/core/lib/Wrench/Tests/ConnectionManagerTest.php",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/02-organisms/30-lists/15-list--content.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/30-media/11-media--contact--largerimg.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_skip-to-main-content.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/02-text/_40-skip-to-content.mustache",
+		"/Users/johanl/webpages/ripo-git/public/config.codekit",
+		"/Users/johanl/webpages/ripo-git/source/scss/grid/susy/susy/language/susy/_container.scss",
+		"/Users/johanl/webpages/ripo-git/core/lib/Mustache/Context.php",
+		"/Users/johanl/webpages/ripo-git/config/config.ini",
+		"/Users/johanl/webpages/ripo-git/source/js/only-for-static-files/HighCharts/themes/rk-highchartTheme.js",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--base.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_accordion.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--button.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/variables/var/_var--breakpoints.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_aktualiteter.scss",
+		"/Users/johanl/webpages/ripo-git/public/patterns/00-atoms-02-text-51-read-more--external-link/00-atoms-02-text-51-read-more--external-link.html",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_table.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/theme.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/90-johanstest/99-Johans-testsida.mustache",
+		"/Users/johanl/webpages/ripo-git/source/scss/base/_lists.scss",
+		"/Users/johanl/webpages/ripo-git/source/scss/gui/_flexslider.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/90-johanstest/99-Johans-testsida.json",
+		"/Users/johanl/webpages/ripo-git/source/scss/module/_navigations.scss",
+		"/Users/johanl/webpages/ripo-git/core/source/css/scss/base/_headings.scss",
+		"/Users/johanl/webpages/ripo-git/core/source/css/scss/objects/_header.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/02-text/00-headings.mustache",
+		"/Users/johanl/webpages/ripo-git/core/source/_patterns/00-atoms/02-text/00-headings.mustache",
+		"/Users/johanl/webpages/ripo-git/core/source/_patterns/02-organisms/00-global/00-header.mustache",
+		"/Users/johanl/webpages/ripo-git/core/source/_patterns/01-molecules/00-text/02-heading-group.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/00-text/10-heading-underlined-alpha.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/00-text/11-heading-underlined-beta.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/00-text/15-heading-balk-beta.mustache",
+		"/Users/johanl/webpages/ripo-git/public/patterns/01-molecules-15-islands-00-island/01-molecules-15-islands-00-island.html",
+		"/Users/johanl/webpages/ripo-git/source/scss/gui/_masthead.scss",
+		"/Users/johanl/webpages/ripo-git/core/lib/Mustache/Autoloader.php",
+		"/Users/johanl/webpages/ripo-git/core/source/css/scss/base/_forms.scss",
+		"/Users/johanl/webpages/ripo-git/source/js/vendor/parsley--local--sv.js",
+		"/Users/johanl/webpages/ripo-git/source/js/vendor/parsley.js",
+		"/Users/johanl/webpages/ripo-git/core/lib/Mustache/Parser.php",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/35-sverigesregering/35-template--sveriges_regering.json",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/35-sverigesregering/35-template--sveriges_regering@inreview.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/35-sverigesregering/35-template--sveriges_regering~alt4@inreview.json",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/35-sverigesregering/35-template--sveriges_regering~alt2@inreview.json",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/35-sverigesregering/35-template--sveriges_regering~alt3@inreview.json",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/02-organisms/10-masthead/_30-masthead--departementlistning.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/18-listitems/06-bild-bildtext-largeimg.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/04-images/_13-landscape-690x460-3x2.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/01-global/00-colors.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/04-templates/35-template--sveriges_regering.json",
+		"/Users/johanl/webpages/ripo-git/public/js/only-for-static-files/HighCharts/highcharts.src.js",
+		"/Users/johanl/webpages/ripo-git/core/source/_patterns/00-atoms/05-forms/04-html5-inputs.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/01-molecules/80-highcharts/31-highcharts--charttype-pie2.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/02-organisms/00-global/10-footer.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/03-sandbox/50-betaversion/10-Taxonomi_departement-beta.json",
+		"/Users/johanl/webpages/ripo-git/source/scss/betaversion.scss",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/02-organisms/00-global/_11-footer-oldstyle.mustache",
+		"/Users/johanl/webpages/ripo-git/source/_patterns/00-atoms/05-forms/02-dateinput-to.mustache"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/johanl/webpages/ripo-git/source/,*.scss",
+			"/Users/johanl/webpages/ripo-git/source/",
+			"/Users/johanl/webpages/ripo-git/source/scss,*.scss",
+			"/Users/johanl/webpages/ripo-git/source/_patterns,*.mustache, *.json",
+			"/Users/johanl/webpages/ripo-git/source/_patterns,*.mustache",
+			"",
+			"*.mustache",
+			"*.scss",
+			"*.mustache",
+			"*.json",
+			"",
+			"/Users/johanl/webpages/ripo-git/source/_patterns",
+			"/Users/johanl/webpages/ripo-git/source",
+			"/Users/johanl/webpages/ripo-git/source/scss,*.scss",
+			"/Users/johanl/Sites/swedenabroad2013/static/,*.scss",
+			"/Users/johanl/Sites/swedenabroad2013/static/src/module/inuit.css-master",
+			"/Users/johanl/Sites/SwedenAbroad2011/static/css,basic.css",
+			"/Users/johanl/Sites/EFA,breakpoint2.scss",
+			"/Users/johanl/Sites/EFA,breakpoint3.scss",
+			"/Users/johanl/Sites/EFA,ie.scss",
+			"/Users/johanl/Sites/EFA,breakpoint3.scss",
+			"/Users/johanl/Sites/EFA,*.scss",
+			"/Users/johanl/Sites/EFA",
+			"/Users/johanl/Sites/EFA,breakpoint2.scss",
+			"/Users/johanl/Sites/EFA,breakpoint3.scss",
+			"/Users/johanl/Sites/EFA,_variables.scss",
+			"/Users/johanl/Sites/EFA,module.scss",
+			"/Users/johanl/Sites/EFA,_sprites.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"datepicker",
+			"$base-spacing-unit--small",
+			"$ui-inverseborder-color",
+			"tooltip",
+			"468847",
+			"a6cbe0",
+			"808080",
+			"1a1a1a",
+			"333",
+			"4d4d4d",
+			"666",
+			"757575",
+			"808080",
+			"999",
+			"b3b3b3",
+			"bfbfbf",
+			"ccc",
+			"e6e6e6",
+			"ebebeb",
+			"f2f2f2",
+			"f7f7f7",
+			"132333",
+			"162a45",
+			"0978b9",
+			"54657d",
+			"2c405e",
+			"006ba8",
+			"cararra",
+			"carrarra",
+			"2f6192",
+			"0d4c87",
+			"136bbe",
+			"e2eef9",
+			"e1ebf5",
+			"e2eef9",
+			"d7e9f9",
+			"e9f0f7",
+			"bac0ca",
+			"3c4f6b",
+			"2c405e",
+			"e8e6e3",
+			"efedeb",
+			"f2f1ef",
+			"f8f8f7",
+			"sg-pattern-head",
+			"e6611e",
+			"d72828",
+			"b94169",
+			"2e1957",
+			"41aa54",
+			"83c9ce",
+			"3c7cb9",
+			"f3d0aa",
+			"e28828",
+			"cfb4af",
+			"333333",
+			"864137",
+			"ebd4d0",
+			"ebd4do",
+			"fa8e85",
+			"c9c0c9",
+			"785e78",
+			"c5d5c7",
+			"c4d4c6",
+			"6e9673",
+			"geyser",
+			"c8d8df",
+			"c7d7df",
+			"c8d8df",
+			"749baa",
+			"b0bec9",
+			"afbdc9",
+			"375977",
+			"375a78",
+			"dfddd9",
+			"afaaa0",
+			"dfdcd8",
+			"b0aba0",
+			"ffcc00",
+			"cloudy",
+			"disabled",
+			"linear-gradient",
+			"f2f1f0",
+			"btn-nav--primo",
+			"Om Miljömålen",
+			"desertstorm--light",
+			"BigStone",
+			"blue--linkcolor",
+			"azure",
+			"Denim",
+			"blue--light",
+			"LinkWater",
+			"TropicalBlue",
+			"blacksqueeze",
+			"Loblolly",
+			"fiord",
+			"rhino",
+			"blacksqueeze",
+			"landscape-690x460-3x2",
+			"utgiven",
+			"i årets budget",
+			"Politikområdet i",
+			"Politikområdet i årets budget",
+			"graf",
+			"</td>\n</td>",
+			"<td>\n<p>",
+			"p>",
+			"474747",
+			".sg-header",
+			".h-underlined",
+			"Page specific styles",
+			"block--politikomrLinks",
+			"collapsible",
+			"time",
+			"masthead--focusframe__frame",
+			"tundora",
+			"$boulder",
+			"urval--btn--first",
+			"scope=\"row\"",
+			"#f2f1f0",
+			"#ccc",
+			"#333",
+			"table",
+			"#tab4--",
+			"#tab1--",
+			"<h2 id=\"filter-result-heading\" class=\"h-underlined h-underlined--beta has-margintop\">",
+			"id=\"filter-result-heading\"",
+			"molecules-presskontakter"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i budgeten",
+			"Politikområdet i budgeten",
+			"<h2 class=\"h-underlined h-underlined--beta has-margintop js-filter-result-heading\">",
+			"collapsible--alpha",
+			"collapsible collapsible--alpha",
+			"collapsible.collapsible--alpha",
+			"\"tabs--primo--alpha-fragment-1\"",
+			"\"tabs--primo--alpha-tabNav-1\"",
+			"\"tabs--primo--alpha-fragment-1\"",
+			"alpha",
+			"Relaterade länkar",
+			"Politikområden inom integration",
+			"Relaterade länkar",
+			"Morgan Johansson",
+			"font-weight: $OpenSansSemibold",
+			"url(img/jqueryui/images",
+			"//filter: dropshadow(color=#ffffff, offx=1, offy=1);",
+			".well .m-mastheadOpenhours{\n	padding: 14px 0 0 20px;\n	p{\n		font-size:44px;\n		line-height: 42px;\n		margin-bottom: 18px;\n	}\n}\n.lt-ie8{\n	.well .l-mastheadOpenhours{\n		padding-left:0;\n		float: right;\n		width: 30%;\n	}\n}",
+			".content{\n	#googlemap_aside{\n		height:400px;\n	}\n}\n// Top navigation Level 1",
+			"@import \"state/responsive/breakpoint2.scss\";\n@import \"state/responsive/breakpoint2-1.scss\";\n@import \"state/responsive/breakpoint3.scss\";",
+			".well .m-mastheadOpenhours{\n	padding: 14px 0 0 20px;\n	p{\n		font-size:44px;\n		line-height: 42px;\n		margin-bottom: 18px;\n	}\n}",
+			"	&.m-about{\n		top:20px;\n		right:20px;\n		border-left: 1px solid rgba(255, 255, 255, 0.2);\n		padding-left: 20px;\n	}",
+			"margin-right: -117px;",
+			"font-size:13px;",
+			"#topnavigation",
+			"//ContentList\n$contentListborder:	$grayLighter;\n$contentListdateColor:	darken($grayDarker, 3%);\n//Blockquote",
+			"Länklista, länk med pil:",
+			"//*	Länklista, länk med pil:",
+			".icon-youtube",
+			".icon-youtube                 { background-position: -80px 0; width: 33px;height: 33px;line-height: 33px;}\n\n//Pilar av typen länklistor\n.icon-arrowRight-10           { background-position: -260px 0; width: 13px;height: 13px;line-height: 13px;}\n.icon-arrowLeft-10            { background-position: -240px 0; width: 13px;height: 13px;line-height: 13px;}\n",
+			"<!",
+			"<img src=\"http://dummyimage.com/74x91/444/999.gif&text=74 x 91px\" alt=\"dummy\"/>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static/src/kit/index.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "html",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1846,
+								1842
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "html",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/src/kit/meta/_head.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "codekit",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/src/kit/meta/_foot.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							],
+							[
+								86,
+								86
+							],
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "codekit",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CodeKit/CodeKit.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "static/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "css3",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10327.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/src/scss/tools/_revenge.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15146,
+								15146
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 5734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "static/src/kit/data/_data.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boron-jl (SL).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "_project_name_.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lay",
+				"ripo-git/source/scss/grid/_layout.scss"
+			],
+			[
+				"rk",
+				"ripo-git/public/js/rk-main.js"
+			],
+			[
+				"compa",
+				"ripo-git/source/scss/module/_compass-sprites.scss"
+			],
+			[
+				"helper",
+				"ripo-git/source/scss/generic/_helperClasses.scss"
+			],
+			[
+				"form",
+				"ripo-git/source/scss/module/_form.scss"
+			],
+			[
+				"gallery",
+				"ripo-git/source/scss/grid/susy/susy/language/susy/_gallery.scss"
+			],
+			[
+				"footer",
+				"ripo-git/source/scss/gui/_footer.scss"
+			],
+			[
+				"island",
+				"ripo-git/source/scss/module/_island.scss"
+			],
+			[
+				"pars",
+				"ripo-git/source/scss/module/_forms--parsley--validate.scss"
+			],
+			[
+				"parley",
+				"ripo-git/public/js/vendor/parsley.js"
+			],
+			[
+				"var",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"bu",
+				"ripo-git/source/scss/module/_buttons.scss"
+			],
+			[
+				"icons",
+				"ripo-git/source/_patterns/00-atoms/04-icons-logo/50-icons.mustache"
+			],
+			[
+				"sprite",
+				"ripo-git/source/scss/module/_sprites.scss"
+			],
+			[
+				"base",
+				"ripo-git/source/scss/base/_base.scss"
+			],
+			[
+				"contac",
+				"ripo-git/source/_patterns/01-molecules/30-media/10-media--contact.mustache"
+			],
+			[
+				"bas",
+				"ripo-git/source/scss/base/_base.scss"
+			],
+			[
+				"print",
+				"ripo-git/source/scss/tools/_print.scss"
+			],
+			[
+				"islan",
+				"ripo-git/source/scss/module/_island.scss"
+			],
+			[
+				"accordion",
+				"ripo-git/source/scss/module/_accordion.scss"
+			],
+			[
+				"butt",
+				"ripo-git/source/scss/module/_buttons.scss"
+			],
+			[
+				"var-col",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"table",
+				"ripo-git/source/scss/module/_table.scss"
+			],
+			[
+				"flexslider",
+				"ripo-git/source/scss/gui/_flexslider.scss"
+			],
+			[
+				"figure",
+				"ripo-git/source/scss/module/_figure--figcaption.scss"
+			],
+			[
+				"list",
+				"ripo-git/source/scss/base/_lists.scss"
+			],
+			[
+				"head",
+				"ripo-git/source/scss/gui/_header.scss"
+			],
+			[
+				"mixin",
+				"ripo-git/source/scss/variables/_mixins.scss"
+			],
+			[
+				"nav",
+				"ripo-git/source/scss/module/_navigations.scss"
+			],
+			[
+				"theme",
+				"ripo-git/source/scss/theme.scss"
+			],
+			[
+				"parsley",
+				"ripo-git/source/scss/module/_forms--parsley--validate.scss"
+			],
+			[
+				"beta",
+				"ripo-git/source/scss/betaversion.scss"
+			],
+			[
+				"forms-",
+				"ripo-git/source/scss/module/_forms--parsley--validate.scss"
+			],
+			[
+				"the",
+				"ripo-git/source/scss/theme.scss"
+			],
+			[
+				"style",
+				"ripo-git/source/scss/style.scss"
+			],
+			[
+				"toggle",
+				"ripo-git/source/scss/module/_toggle-On-Off.scss"
+			],
+			[
+				"var--base",
+				"ripo-git/source/scss/variables/var/_var--base.scss"
+			],
+			[
+				"var--",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"var--co",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"var--bas",
+				"ripo-git/source/scss/variables/var/_var--base.scss"
+			],
+			[
+				"var--ty",
+				"ripo-git/source/scss/variables/var/_var--typography.scss"
+			],
+			[
+				"grid",
+				"themes/grid.js"
+			],
+			[
+				"politi",
+				"ripo-git/source/scss/module/_politik-komponent.scss"
+			],
+			[
+				"sty",
+				"ripo-git/source/scss/style.scss"
+			],
+			[
+				"fig",
+				"ripo-git/source/scss/module/_figure--figcaption.scss"
+			],
+			[
+				"helpe",
+				"ripo-git/source/scss/generic/_helperClasses.scss"
+			],
+			[
+				"sele",
+				"ripo-git/core/source/_patterns/00-atoms/05-forms/01-select-menu.mustache"
+			],
+			[
+				"butto",
+				"ripo-git/source/scss/module/_buttons.scss"
+			],
+			[
+				"urval",
+				"ripo-git/source/_patterns/02-organisms/15-island-blocks/23-block--urval.mustache"
+			],
+			[
+				"press",
+				"ripo-git/source/scss/module/_presskontakter.scss"
+			],
+			[
+				"tabl",
+				"ripo-git/source/scss/module/_table.scss"
+			],
+			[
+				"masthead",
+				"ripo-git/source/scss/gui/_masthead.scss"
+			],
+			[
+				"notis",
+				"ripo-git/source/scss/module/_notiser.scss"
+			],
+			[
+				"var--color",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"date",
+				"ripo-git/source/scss/base/_datetime.scss"
+			],
+			[
+				"data",
+				"ripo-git/source/_data/_data.json"
+			],
+			[
+				"rss",
+				"ripo-git/source/scss/module/_rss.scss"
+			],
+			[
+				"tabs",
+				"ripo-git/source/scss/module/_tabs.scss"
+			],
+			[
+				"sidans",
+				"ripo-git/source/scss/module/_sidansvarig.scss"
+			],
+			[
+				"var--colo",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"fiigcap",
+				"ripo-git/source/scss/module/_figure--figcaption.scss"
+			],
+			[
+				"media",
+				"ripo-git/source/scss/module/_media.scss"
+			],
+			[
+				"layou",
+				"ripo-git/source/scss/grid/_layout.scss"
+			],
+			[
+				"var--typ",
+				"ripo-git/source/scss/variables/var/_var--typography.scss"
+			],
+			[
+				"hr",
+				"ripo-git/source/scss/base/_hr.scss"
+			],
+			[
+				"highcharts--10",
+				"ripo-git/source/_patterns/01-molecules/80-highcharts/10-highcharts--chart-10.mustache"
+			],
+			[
+				"highcharts",
+				"ripo-git/source/_patterns/01-molecules/80-highcharts/01-highcharts--chart-01.mustache"
+			],
+			[
+				"block-v",
+				"ripo-git/source/scss/module/_block--vcard.scss"
+			],
+			[
+				"state",
+				"ripo-git/source/scss/state/_state.scss"
+			],
+			[
+				"var--col",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"masthe",
+				"ripo-git/source/scss/gui/_masthead.scss"
+			],
+			[
+				"var--br",
+				"ripo-git/source/scss/variables/var/_var--breakpoints.scss"
+			],
+			[
+				"block",
+				"ripo-git/source/scss/module/_block--politikomrLinks.scss"
+			],
+			[
+				"prin",
+				"ripo-git/source/scss/tools/_print.scss"
+			],
+			[
+				"noti",
+				"ripo-git/source/scss/module/_notiser.scss"
+			],
+			[
+				"styl",
+				"ripo-git/source/scss/style.scss"
+			],
+			[
+				"navigat",
+				"ripo-git/source/scss/module/_navigations.scss"
+			],
+			[
+				"multi",
+				"ripo-git/source/scss/module/_multicol.scss"
+			],
+			[
+				"view",
+				"ripo-git/source/scss/module/_view-sortlist.scss"
+			],
+			[
+				"them",
+				"ripo-git/source/scss/page/_theme.scss"
+			],
+			[
+				"social",
+				"ripo-git/source/scss/module/_socialmedia.scss"
+			],
+			[
+				"la",
+				"ripo-git/source/scss/grid/_layout.scss"
+			],
+			[
+				"var--b",
+				"ripo-git/source/scss/variables/var/_var--base.scss"
+			],
+			[
+				"vase",
+				"ripo-git/source/scss/variables/var/_var--base.scss"
+			],
+			[
+				"mast",
+				"ripo-git/source/scss/gui/_masthead.scss"
+			],
+			[
+				"accor",
+				"ripo-git/source/scss/module/_accordion.scss"
+			],
+			[
+				"datetim",
+				"ripo-git/source/scss/base/_datetime.scss"
+			],
+			[
+				"ans",
+				"ripo-git/source/scss/module/_block--ansvarig.scss"
+			],
+			[
+				"pren",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/22-block--prenumerera.mustache"
+			],
+			[
+				"urva",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/23-block--urval.mustache"
+			],
+			[
+				"xfor",
+				"ripo-git/source/_patterns/01-molecules/40-forms/20-x-form--primo.mustache"
+			],
+			[
+				"vca",
+				"ripo-git/source/scss/module/_block--vcard.scss"
+			],
+			[
+				"vcar",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/90-block-vcard.mustache"
+			],
+			[
+				"exter",
+				"ripo-git/source/scss/module/_externalLinkIcon.scss"
+			],
+			[
+				"datetime",
+				"ripo-git/source/scss/base/_datetime.scss"
+			],
+			[
+				"tab",
+				"ripo-git/source/scss/module/_table.scss"
+			],
+			[
+				"urv",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/23-block--urval.mustache"
+			],
+			[
+				"sub",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/24-block--view-sortlist.mustache"
+			],
+			[
+				"akt",
+				"ripo-git/source/scss/module/_aktualiteter.scss"
+			],
+			[
+				"aktualitete",
+				"ripo-git/source/scss/module/_aktualiteter.scss"
+			],
+			[
+				"var--c",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			],
+			[
+				"figure--fi",
+				"ripo-git/source/scss/module/_figure--figcaption.scss"
+			],
+			[
+				"list--presskalendarium",
+				"ripo-git/source/_patterns/02-organisms/30-lists/20-list--presskalendarium.mustache"
+			],
+			[
+				"pressbi",
+				"ripo-git/source/scss/module/_pressbildlistning.scss"
+			],
+			[
+				"block-pressbilder",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/82-block-pressbilder.mustache"
+			],
+			[
+				"block-presskontakter",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/81-block-presskontakter.mustache"
+			],
+			[
+				"tabs--primo--press",
+				"ripo-git/source/_patterns/01-molecules/51-sortTabs/00-tabs--primo--press.mustache"
+			],
+			[
+				"media--contact",
+				"ripo-git/source/_patterns/01-molecules/30-media/10-media--contact.mustache"
+			],
+			[
+				"heading-balk-beta",
+				"ripo-git/source/_patterns/01-molecules/00-text/15-heading-balk-beta.mustache"
+			],
+			[
+				"block--departementslistmodul-beta",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/_19-block--departementslistmodul-beta.mustache"
+			],
+			[
+				"block--departementslistmodul",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/19-block--departementslistmodul.mustache"
+			],
+			[
+				"list--sortering--extended",
+				"ripo-git/source/_patterns/02-organisms/30-lists/10-list--sortering--extended.mustache"
+			],
+			[
+				"presskontakter",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/81-block-presskontakter.mustache"
+			],
+			[
+				"organisms-list--presskalendarium",
+				"ripo-git/source/_patterns/02-organisms/30-lists/20-list--presskalendarium.mustache"
+			],
+			[
+				"calend",
+				"ripo-git/source/_patterns/02-organisms/20-blocks/41-block--rege--calendar.mustache"
+			],
+			[
+				"calen",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/64-calendariumListItem.mustache"
+			],
+			[
+				"presskont",
+				"ripo-git/source/scss/module/_presskontakter.scss"
+			],
+			[
+				"col",
+				"ripo-git/source/scss/module/_collapsible.scss"
+			],
+			[
+				"color",
+				"ripo-git/source/_patterns/00-atoms/01-global/00-colors.mustache"
+			],
+			[
+				"co",
+				"ripo-git/source/scss/module/_collapsible.scss"
+			],
+			[
+				"ptheme",
+				"ripo-git/source/scss/page/_theme.scss"
+			],
+			[
+				"multicol",
+				"ripo-git/source/scss/module/_multicol.scss"
+			],
+			[
+				"aktualitet",
+				"ripo-git/source/scss/module/_aktualiteter.scss"
+			],
+			[
+				"pagina",
+				"ripo-git/source/scss/module/_pagination.scss"
+			],
+			[
+				"block-pres",
+				"ripo-git/source/_patterns/01-molecules/20-blocks/82-block-pressbilder.mustache"
+			],
+			[
+				"politik",
+				"ripo-git/source/scss/gui/_politik-komponent.scss"
+			],
+			[
+				"paginati",
+				"ripo-git/source/scss/module/_pagination.scss"
+			],
+			[
+				"var-co",
+				"ripo-git/source/scss/variables/var/_var--colors.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 402.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

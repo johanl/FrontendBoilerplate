@@ -1,0 +1,51 @@
+//====================================================================
+// Mixins
+//====================================================================
+
+@mixin font-size( $font-size ) {
+    font-size: $font-size * 1px;
+    font-size: $font-size/10 * 1rem;
+}
+
+@mixin fa-FontAwesome() {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: inherit;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    *margin-right: .3em; // fixes ie7 issues
+}
+
+
+// Lists
+// -------------------------
+@mixin list--unstyled{
+    margin-left: 0;
+    padding-left: 0;
+    > li{
+        list-style-type: none;
+    }
+}
+
+@mixin list--inline{
+    margin: 0 auto 1em auto;
+    margin-left: -1em;
+    margin-right: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    > li {
+        list-style: none;
+        float: left;
+        margin-left: 1em;
+        display: block; }
+        > * {
+        display: block;
+    }
+}
+
+
+
+

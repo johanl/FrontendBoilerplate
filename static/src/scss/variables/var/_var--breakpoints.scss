@@ -1,0 +1,13 @@
+$breakpoint-to-ems: true;
+$max-width: 1290px;
+$max-width--content: 1050px;
+$lt-ie9-Maxwidth: 750px;
+
+$mobile: 480px;
+$mobile-max: max-width 479px;
+
+$tablet: 768px;
+$tablet-max: max-width 767px;
+
+$desktop: $max-width--content;
+$desktop-max: 1049px;

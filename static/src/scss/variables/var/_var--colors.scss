@@ -1,0 +1,8 @@
+$black:         hsla(0, 0%, 0%, 1);
+$white:         hsla(0, 100%, 100%, 1);
+$gray:          lighten($black, 50%);
+
+
+
+$link-color:        blue;
+$link-color-hover:  lighten($link-color, 5%);
