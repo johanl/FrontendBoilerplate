@@ -5,20 +5,18 @@
  *    user zoom.
  */
 html {
-	font-family : sans-serif;
-	/* 1 */
-	    -ms-text-size-adjust : 100%;
-	/* 2 */
-	-webkit-text-size-adjust : 100%;
-	/* 2 */
-}
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
 
 /**
  * Remove default margin.
  */
 body {
-	margin : 0;
-}
+  margin: 0; }
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -41,8 +39,7 @@ menu,
 nav,
 section,
 summary {
-	display : block;
-}
+  display: block; }
 
 /**
  * 1. Correct `inline-block` display not defined in IE 8/9.
@@ -52,20 +49,18 @@ audio,
 canvas,
 progress,
 video {
-	display : inline-block;
-	/* 1 */
-	vertical-align : baseline;
-	/* 2 */
-}
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */ }
 
 /**
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
 audio:not([controls]) {
-	display : none;
-	height : 0;
-}
+  display: none;
+  height: 0; }
 
 /**
  * Address `[hidden]` styling not present in IE 8/9/10.
@@ -73,8 +68,7 @@ audio:not([controls]) {
  */
 [hidden],
 template {
-	display : none;
-}
+  display: none; }
 
 /* Links
    ========================================================================== */
@@ -82,16 +76,14 @@ template {
  * Remove the gray background color from active links in IE 10.
  */
 a {
-	background-color : transparent;
-}
+  background-color: transparent; }
 
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
 a:active,
 a:hover {
-	outline : 0;
-}
+  outline: 0; }
 
 /* Text-level semantics
    ========================================================================== */
@@ -99,66 +91,57 @@ a:hover {
  * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
  */
 abbr[title] {
-	border-bottom : 1px dotted;
-}
+  border-bottom: 1px dotted; }
 
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
  */
 b,
 strong {
-	font-weight : bold;
-}
+  font-weight: bold; }
 
 /**
  * Address styling not present in Safari and Chrome.
  */
 dfn {
-	font-style : italic;
-}
+  font-style: italic; }
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari, and Chrome.
  */
 h1 {
-	font-size : 2em;
-	margin : 0.67em 0;
-}
+  font-size: 2em;
+  margin: 0.67em 0; }
 
 /**
  * Address styling not present in IE 8/9.
  */
 mark {
-	background : #ff0;
-	color : #000;
-}
+  background: #ff0;
+  color: #000; }
 
 /**
  * Address inconsistent and variable font size in all browsers.
  */
 small {
-	font-size : 80%;
-}
+  font-size: 80%; }
 
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
 sub,
 sup {
-	font-size : 75%;
-	line-height : 0;
-	position : relative;
-	vertical-align : baseline;
-}
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
 
 sup {
-	top : -0.5em;
-}
+  top: -0.5em; }
 
 sub {
-	bottom : -0.25em;
-}
+  bottom: -0.25em; }
 
 /* Embedded content
    ========================================================================== */
@@ -166,15 +149,13 @@ sub {
  * Remove border when inside `a` element in IE 8/9/10.
  */
 img {
-	border : 0;
-}
+  border: 0; }
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
 svg:not(:root) {
-	overflow : hidden;
-}
+  overflow: hidden; }
 
 /* Grouping content
    ========================================================================== */
@@ -182,24 +163,21 @@ svg:not(:root) {
  * Address margin not present in IE 8/9 and Safari.
  */
 figure {
-	margin : 1em 40px;
-}
+  margin: 1em 40px; }
 
 /**
  * Address differences between Firefox and other browsers.
  */
 hr {
-	-moz-box-sizing : content-box;
-	     box-sizing : content-box;
-	height : 0;
-}
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
 
 /**
  * Contain overflow in all browsers.
  */
 pre {
-	overflow : auto;
-}
+  overflow: auto; }
 
 /**
  * Address odd `em`-unit font size rendering in all browsers.
@@ -208,9 +186,8 @@ code,
 kbd,
 pre,
 samp {
-	font-family : monospace, monospace;
-	font-size : 1em;
-}
+  font-family: monospace, monospace;
+  font-size: 1em; }
 
 /* Forms
    ========================================================================== */
@@ -229,20 +206,18 @@ input,
 optgroup,
 select,
 textarea {
-	color : inherit;
-	/* 1 */
-	font : inherit;
-	/* 2 */
-	margin : 0;
-	/* 3 */
-}
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */ }
 
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
 button {
-	overflow : visible;
-}
+  overflow: visible; }
 
 /**
  * Address inconsistent `text-transform` inheritance for `button` and `select`.
@@ -252,8 +227,7 @@ button {
  */
 button,
 select {
-	text-transform : none;
-}
+  text-transform: none; }
 
 /**
  * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
@@ -266,36 +240,32 @@ button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	-webkit-appearance : button;
-	/* 2 */
-	cursor : pointer;
-	/* 3 */
-}
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */ }
 
 /**
  * Re-set default cursor for disabled elements.
  */
 button[disabled],
 html input[disabled] {
-	cursor : default;
-}
+  cursor: default; }
 
 /**
  * Remove inner padding and border in Firefox 4+.
  */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
-	border : 0;
-	padding : 0;
-}
+  border: 0;
+  padding: 0; }
 
 /**
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
 input {
-	line-height : normal;
-}
+  line-height: normal; }
 
 /**
  * It's recommended that you don't attempt to style these elements.
@@ -306,11 +276,10 @@ input {
  */
 input[type="checkbox"],
 input[type="radio"] {
-	box-sizing : border-box;
-	/* 1 */
-	padding : 0;
-	/* 2 */
-}
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
 
 /**
  * Fix the cursor style for Chrome's increment/decrement buttons. For certain
@@ -319,8 +288,7 @@ input[type="radio"] {
  */
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
-	height : auto;
-}
+  height: auto; }
 
 /**
  * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
@@ -328,13 +296,12 @@ input[type="number"]::-webkit-outer-spin-button {
  *    (include `-moz` to future-proof).
  */
 input[type="search"] {
-	-webkit-appearance : textfield;
-	/* 1 */
-	   -moz-box-sizing : content-box;
-	-webkit-box-sizing : content-box;
-	/* 2 */
-	        box-sizing : content-box;
-}
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
 
 /**
  * Remove inner padding and search cancel button in Safari and Chrome on OS X.
@@ -343,43 +310,38 @@ input[type="search"] {
  */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
-	-webkit-appearance : none;
-}
+  -webkit-appearance: none; }
 
 /**
  * Define consistent border, margin, and padding.
  */
 fieldset {
-	border : 1px solid #c0c0c0;
-	margin : 0 2px;
-	padding : 0.35em 0.625em 0.75em;
-}
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
 
 /**
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
 legend {
-	border : 0;
-	/* 1 */
-	padding : 0;
-	/* 2 */
-}
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
 
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
  */
 textarea {
-	overflow : auto;
-}
+  overflow: auto; }
 
 /**
  * Don't inherit the `font-weight` (applied by a rule above).
  * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
  */
 optgroup {
-	font-weight : bold;
-}
+  font-weight: bold; }
 
 /* Tables
    ========================================================================== */
@@ -387,14 +349,12 @@ optgroup {
  * Remove most spacing between table cells.
  */
 table {
-	border-collapse : collapse;
-	border-spacing : 0;
-}
+  border-collapse: collapse;
+  border-spacing: 0; }
 
 td,
 th {
-	padding : 0;
-}
+  padding: 0; }
 
 /*------------------------------------*\
     #BOX-SIZING
@@ -402,143 +362,112 @@ th {
 /**
  * Set the global `box-sizing` state to `border-box`.
  */
-*,
-*:before,
-*:after {
-	-webkit-box-sizing : border-box;
-	   -moz-box-sizing : border-box;
-	        box-sizing : border-box;
-}
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
 
-.layout-gridContainer,
-.cl {
-	*zoom : 1;
-	clear : both;
-}
-.layout-gridContainer:before,
-.layout-gridContainer:after,
-.cl:before,
-.cl:after {
-	content : "";
-	display : table;
-}
-.layout-gridContainer:after,
-.cl:after {
-	clear : both;
-}
+.layout-gridContainer, .cl {
+  *zoom: 1;
+  clear: both; }
+  .layout-gridContainer:before, .layout-gridContainer:after, .cl:before, .cl:after {
+    content: "";
+    display: table; }
+  .layout-gridContainer:after, .cl:after {
+    clear: both; }
 
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
    ========================================================================== */
 /* For image replacement */
 .ir {
-	display : block;
-	border : 0;
-	text-indent : -999em;
-	overflow : hidden;
-	background-color : transparent;
-	background-repeat : no-repeat;
-	text-align : left;
-	direction : ltr;
-	*line-height : 0;
-}
+  display: block;
+  border: 0;
+  text-indent: -999em;
+  overflow: hidden;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  text-align: left;
+  direction: ltr;
+  *line-height: 0; }
 
 .screen-reader-text {
-	/* Reusable, toolbox kind of class */
-	position : absolute;
-	top : -9999px;
-	left : -9999px;
-}
+  /* Reusable, toolbox kind of class */
+  position: absolute;
+  top: -9999px;
+  left: -9999px; }
 
 .ir br {
-	display : none;
-}
+  display: none; }
 
 /* Hide from both screenreaders and browsers: h5bp.com/u */
 .hidden {
-	display : none !important;
-	visibility : hidden;
-}
+  display: none !important;
+  visibility: hidden; }
 
 /* Hide only visually, but have it available for screenreaders: h5bp.com/v */
-.visuallyhidden,
-.is-vishidden,
-.is-nojs-vissible {
-	border : 0;
-	clip : rect(0, 0, 0, 0);
-	height : 1px;
-	margin : -1px;
-	overflow : hidden;
-	padding : 0;
-	position : absolute;
-	width : 1px !important;
-}
+.visuallyhidden, .is-vishidden, .is-nojs-vissible {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px !important; }
 
 @media (min-width: 48em) {
-	.is-vishidden-tablet-up {
-		border : 0;
-		clip : rect(0 0 0 0);
-		height : 1px;
-		margin : -1px;
-		overflow : hidden;
-		padding : 0;
-		position : absolute;
-		width : 1px;
-	}
-}
+  .is-vishidden-tablet-up {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px; } }
 
 @media (max-width: 47.9375em) {
-	.is-vishidden-tablet-down {
-		border : 0;
-		clip : rect(0 0 0 0);
-		height : 1px;
-		margin : -1px;
-		overflow : hidden;
-		padding : 0;
-		position : absolute;
-		width : 1px;
-	}
-}
+  .is-vishidden-tablet-down {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px; } }
 
 .no-js .is-nojs-vissible {
-	border : inherit;
-	clip : auto;
-	height : auto;
-	margin : inherit;
-	margin-left : 0;
-	margin-right : 0;
-	overflow : inherit;
-	padding : inherit;
-	position : inherit;
-	width : auto;
-}
+  border: inherit;
+  clip: auto;
+  height: auto;
+  margin: inherit;
+  margin-left: 0;
+  margin-right: 0;
+  overflow: inherit;
+  padding: inherit;
+  position: inherit;
+  width: auto; }
 
 /* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: h5bp.com/p */
-.visuallyhidden.focusable:active,
-.focusable.is-vishidden:active,
-.focusable.is-nojs-vissible:active,
-.visuallyhidden.focusable:focus,
-.focusable.is-vishidden:focus,
-.focusable.is-nojs-vissible:focus {
-	clip : auto;
-	height : auto;
-	margin : 0;
-	overflow : visible;
-	position : static;
-	width : auto;
-}
+.visuallyhidden.focusable:active, .focusable.is-vishidden:active, .focusable.is-nojs-vissible:active, .visuallyhidden.focusable:focus, .focusable.is-vishidden:focus, .focusable.is-nojs-vissible:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
 
 /* Hide visually and from screenreaders, but maintain layout */
 .invisible {
-	visibility : hidden;
-}
+  visibility: hidden; }
 
 body {
-	font-size : 62.5%;
-	font-size : 14px;
-	font-size : 1.4rem;
-	line-height : 1.4285714286;
-}
+  font-size: 62.5%;
+  line-height: 1.4285714286;
+  font-size: 14px;
+  font-size: 1.4rem; }
 
 p,
 ul,
@@ -546,319 +475,246 @@ ol,
 table,
 form,
 figure {
-	margin-bottom : 1.4285714286;
-}
+  margin-bottom: 1.4285714286; }
 
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
-	font-family : Georgia, "Times New Roman", Times, serif;
-	margin-bottom : 1.4285714286;
-}
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 1.4285714286; }
 
-h1,
-.h1 {
-	font-size : 28px;
-	font-size : 2.8rem;
-}
+h1, .h1 {
+  font-size: 28px;
+  font-size: 2.8rem; }
 
-h2,
-.h2 {
-	font-size : 21px;
-	font-size : 2.1rem;
-}
+h2, .h2 {
+  font-size: 21px;
+  font-size: 2.1rem; }
 
-h3,
-.h3 {
-	font-size : 16px;
-	font-size : 1.6rem;
-}
+h3, .h3 {
+  font-size: 16px;
+  font-size: 1.6rem; }
 
-h4,
-.h4 {
-	font-size : 14px;
-	font-size : 1.4rem;
-}
+h4, .h4 {
+  font-size: 14px;
+  font-size: 1.4rem; }
 
-h5,
-.h5,
-h6,
-.h6 {
-	font-size : 14px;
-	font-size : 1.4rem;
-}
+h5, .h5,
+h6, .h6 {
+  font-size: 14px;
+  font-size: 1.4rem; }
 
-img,
-video {
-	max-width : 100%;
-	height : auto;
-}
+img, video {
+  max-width: 100%;
+  height: auto; }
 
 object {
-	max-width : 100%;
-}
+  max-width: 100%; }
 
 video {
-	display : block;
-	margin : 1.4285714286 0;
-}
+  display: block;
+  margin: 1.4285714286 0;
+  border-image-width: 1px; }
 
 a {
-	color : blue;
-}
-a:hover,
-a:focus {
-	color : #1a1aff;
-	text-decoration : underline;
-}
+  color: blue; }
+  a:hover, a:focus {
+    color: #1a1aff;
+    text-decoration: underline; }
 
 .pagecontainer {
-	width : 100%;
-	background-color : #fff;
-	max-width : 1290px;
-	margin-left : auto;
-	margin-right : auto;
-}
-.pagecontainer::after {
-	content : " ";
-	display : block;
-	clear : both;
-}
-.no-mq .pagecontainer {
-	width : 750px;
-	max-width : 750px;
-}
+  width: 100%;
+  background-color: #fff;
+  max-width: 1290px;
+  margin-left: auto;
+  margin-right: auto; }
+  .pagecontainer::after {
+    content: " ";
+    display: block;
+    clear: both; }
+  .no-mq .pagecontainer {
+    max-width: 750px;
+    width: 750px; }
 
 .layout-gridContainer {
-	width : 100%;
-	max-width : 100%;
-	margin-left : auto;
-	margin-right : auto;
-	padding : 0 20px;
-}
-.layout-gridContainer::after {
-	content : " ";
-	display : block;
-	clear : both;
-}
-@media (min-width: 65.625em) {
-	.layout-gridContainer {
-		max-width : 1090px;
-		margin-left : auto;
-		margin-right : auto;
-	}
-	.layout-gridContainer::after {
-		content : " ";
-		display : block;
-		clear : both;
-	}
-}
+  padding: 0 20px;
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+  .layout-gridContainer::after {
+    content: " ";
+    display: block;
+    clear: both; }
+  @media (min-width: 65.625em) {
+    .layout-gridContainer {
+      max-width: 1090px;
+      margin-left: auto;
+      margin-right: auto; }
+      .layout-gridContainer::after {
+        content: " ";
+        display: block;
+        clear: both; } }
 
 .gridModule-1up .col {
-	width : 100%;
-	float : left;
-}
+  width: 100%;
+  float: left; }
 
 .gridModule-2up .col {
-	width : 48.1002425222%;
-	float : left;
-}
-.gridModule-2up .col:nth-child(2n + 1) {
-	margin-left : 0;
-	margin-right : -100%;
-	clear : both;
-	margin-left : 0;
-}
-.gridModule-2up .col:nth-child(2n + 2) {
-	margin-left : 51.8997574778%;
-	margin-right : -100%;
-	clear : none;
-}
+  width: 48.1002425222%;
+  float: left; }
+  .gridModule-2up .col:nth-child(2n + 1) {
+    margin-left: 0;
+    margin-right: -100%;
+    clear: both;
+    margin-left: 0; }
+  .gridModule-2up .col:nth-child(2n + 2) {
+    margin-left: 51.8997574778%;
+    margin-right: -100%;
+    clear: none; }
 
 .gridModule-3up .col {
-	width : 30.800323363%;
-	float : left;
-}
-.gridModule-3up .col:nth-child(3n + 1) {
-	margin-left : 0;
-	margin-right : -100%;
-	clear : both;
-	margin-left : 0;
-}
-.gridModule-3up .col:nth-child(3n + 2) {
-	margin-left : 34.5998383185%;
-	margin-right : -100%;
-	clear : none;
-}
-.gridModule-3up .col:nth-child(3n + 3) {
-	margin-left : 69.199676637%;
-	margin-right : -100%;
-	clear : none;
-}
+  width: 30.800323363%;
+  float: left; }
+  .gridModule-3up .col:nth-child(3n + 1) {
+    margin-left: 0;
+    margin-right: -100%;
+    clear: both;
+    margin-left: 0; }
+  .gridModule-3up .col:nth-child(3n + 2) {
+    margin-left: 34.5998383185%;
+    margin-right: -100%;
+    clear: none; }
+  .gridModule-3up .col:nth-child(3n + 3) {
+    margin-left: 69.199676637%;
+    margin-right: -100%;
+    clear: none; }
 
 .gridModule-4up .col {
-	width : 22.1503637833%;
-	float : left;
-}
-.gridModule-4up .col:nth-child(4n + 1) {
-	margin-left : 0;
-	margin-right : -100%;
-	clear : both;
-	margin-left : 0;
-}
-.gridModule-4up .col:nth-child(4n + 2) {
-	margin-left : 25.9498787389%;
-	margin-right : -100%;
-	clear : none;
-}
-.gridModule-4up .col:nth-child(4n + 3) {
-	margin-left : 51.8997574778%;
-	margin-right : -100%;
-	clear : none;
-}
-.gridModule-4up .col:nth-child(4n + 4) {
-	margin-left : 77.8496362167%;
-	margin-right : -100%;
-	clear : none;
-}
+  width: 22.1503637833%;
+  float: left; }
+  .gridModule-4up .col:nth-child(4n + 1) {
+    margin-left: 0;
+    margin-right: -100%;
+    clear: both;
+    margin-left: 0; }
+  .gridModule-4up .col:nth-child(4n + 2) {
+    margin-left: 25.9498787389%;
+    margin-right: -100%;
+    clear: none; }
+  .gridModule-4up .col:nth-child(4n + 3) {
+    margin-left: 51.8997574778%;
+    margin-right: -100%;
+    clear: none; }
+  .gridModule-4up .col:nth-child(4n + 4) {
+    margin-left: 77.8496362167%;
+    margin-right: -100%;
+    clear: none; }
 
 .gridModule-fullwidth {
-	width : 100%;
-	float : left;
-}
+  width: 100%;
+  float: left; }
 
 .gridModule-A .col-1 {
-	width : 65.4001616815%;
-	float : left;
-	margin-right : 3.7995149555%;
-}
+  width: 65.4001616815%;
+  float: left;
+  margin-right: 3.7995149555%; }
 .gridModule-A .col-2 {
-	width : 30.800323363%;
-	float : right;
-}
+  width: 30.800323363%;
+  float: right; }
 .gridModule-A--reverse .col-1 {
-	width : 30.800323363%;
-	float : left;
-	margin-right : 3.7995149555%;
-}
+  width: 30.800323363%;
+  float: left;
+  margin-right: 3.7995149555%; }
 .gridModule-A--reverse .col-2 {
-	width : 65.4001616815%;
-	float : right;
-}
+  width: 65.4001616815%;
+  float: right; }
 
 .gridModule-B .col-1 {
-	width : 30.800323363%;
-	float : left;
-	margin-right : 3.7995149555%;
-}
+  width: 30.800323363%;
+  float: left;
+  margin-right: 3.7995149555%; }
 .gridModule-B .col-2 {
-	width : 30.800323363%;
-	float : left;
-	margin-right : 3.7995149555%;
-}
+  width: 30.800323363%;
+  float: left;
+  margin-right: 3.7995149555%; }
 .gridModule-B .col-3 {
-	width : 30.800323363%;
-	float : right;
-}
+  width: 30.800323363%;
+  float: right; }
 
 @media print {
-	* {
-		background : transparent !important;
-		color : #000 !important;
-		/* Black prints faster: h5bp.com/s */
-		box-shadow : none !important;
-		text-shadow : none !important;
-	}
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important; }
 
-	a,
-	a:visited {
-		text-decoration : underline;
-	}
+  a,
+  a:visited {
+    text-decoration: underline; }
 
-	a[href]:after {
-		content : " (" attr(href) ")";
-	}
+  a[href]:after {
+    content: " (" attr(href) ")"; }
 
-	abbr[title]:after {
-		content : " (" attr(title) ")";
-	}
+  abbr[title]:after {
+    content: " (" attr(title) ")"; }
 
-	/*
+  /*
    * Don't show links for images, or javascript/internal links
    */
-	.ir a:after,
-	a[href^="javascript:"]:after,
-	a[href^="#"]:after {
-		content : "";
-	}
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: ""; }
 
-	pre,
-	blockquote {
-		border : 1px solid #999;
-		page-break-inside : avoid;
-	}
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid; }
 
-	thead {
-		display : table-header-group;
-		/* h5bp.com/t */
-	}
+  thead {
+    display: table-header-group;
+    /* h5bp.com/t */ }
 
-	tr,
-	img {
-		page-break-inside : avoid;
-	}
+  tr,
+  img {
+    page-break-inside: avoid; }
 
-	img {
-		max-width : 100% !important;
-	}
+  img {
+    max-width: 100% !important; }
 
-	@page {
-		margin : 0.5cm;
-	}
-	p,
-	h2,
-	h3 {
-		orphans : 3;
-		widows : 3;
-	}
+  @page {
+    margin: 0.5cm; }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3; }
 
-	h2,
-	h3 {
-		page-break-after : avoid;
-	}
-}
+  h2,
+  h3 {
+    page-break-after: avoid; } }
 /*!
 * Revenge CSS v 1.0
 * Copyright 2013, Heydon Pickering: http://www.heydonworks.com
 * Released under Attribution 3.0 Unported license - http://creativecommons.org/licenses/by/3.0/
 * Please leave this comment block intact as attribution
 */
-a:not([href]),
-a[href=""],
-a[href$="#"],
-a[href^="javascript"],
+a:not([href]), a[href=""], a[href$="#"], a[href^="javascript"],
 .button:not(button):not([role="button"]):not([type="button"]):not([type="submit"]):not([type="reset"]),
 .btn:not(button):not([role="button"]):not([type="button"]):not([type="submit"]):not([type="reset"]),
 a[class*="button"]:not([role="button"]),
 a[role="button"]:not([href*="/"]):not([href*="."]):not([href*="?"]),
-a[role="button"][href=""],
-a[role="button"][href$="#"],
-a[role="button"][href^="javascript"],
+a[role="button"][href=""], a[role="button"][href$="#"], a[role="button"][href^="javascript"],
 .button:not(button):not([role="button"]):not(input),
 .btn:not(button):not([role="button"]):not(input),
 a[class*="button"]:not([role="button"]),
 a.button[class*="disabled"],
-a.btn.disabled,
-a[class*="button"][class*="disabled"],
+a.btn.disabled, a[class*="button"][class*="disabled"],
 form button:not([type]),
 a:empty:not([aria-label]):not([aria-labelledby]),
 button:empty:not([aria-label]):not([aria-labelledby]),
@@ -870,31 +726,10 @@ figcaption,
 form:not([action]),
 fieldset > *:first-child:not(legend),
 button.disabled:not([disabled]):not([readonly]),
-acronym,
-applet,
-basefont,
-center,
-dir,
-font,
-frame,
-frameset,
-isindex,
-listing,
-menu,
-multicol,
-plaintext,
-s,
-strike,
-u,
-xmp,
-bgsound,
-blink,
-comment,
-embed,
-marquee,
-nobr,
-noembed,
-wbr,
+acronym, applet, basefont, center, dir,
+font, frame, frameset, isindex, listing, menu, multicol,
+plaintext, s, strike, u, xmp, bgsound, blink, comment,
+embed, marquee, nobr, noembed, wbr,
 *:empty:not(script),
 section > section:first-child,
 article > section:first-child,
@@ -905,32 +740,19 @@ aside > aside:first-child,
 article > aside:first-child,
 aside > article:first-child,
 aside > section:first-child,
-body > header:not([role="banner"]),
-body > div > header:not([role="banner"]),
-body > footer:not([role="contentinfo"]),
-body > div > footer:not([role="contentinfo"]),
-section [role="banner"],
-section [role="contentinfo"],
-article [role="banner"],
-article [role="contentinfo"],
-aside [role="banner"],
-aside [role="contentinfo"],
+body > header:not([role="banner"]), body > div > header:not([role="banner"]),
+body > footer:not([role="contentinfo"]), body > div > footer:not([role="contentinfo"]),
+section [role="banner"], section [role="contentinfo"],
+article [role="banner"], article [role="contentinfo"],
+aside [role="banner"], aside [role="contentinfo"],
 #main:not(main):not([role="main"]),
 #footer:not(footer):not([role="contentinfo"]),
 #header:not(header):not([role="banner"]),
 #banner:not(header):not([role="banner"]),
-[align],
-[alink],
-[background],
-[bgcolor],
-[border],
-[clear],
-[height],
-[hspace],
-[link],
-[nowrap],
-[start],
-[vlink],
+[align], [alink], [background],
+[bgcolor], [border], [clear],
+[height], [hspace], [link],
+[nowrap], [start], [vlink],
 [vspace],
 script[language],
 table[summary],
@@ -938,20 +760,11 @@ ol > *:not(li),
 ul > *:not(li),
 dl > *:not(dt):not(dd),
 dt + *:not(dd),
-abbr div,
-b div,
-i div,
-span div,
-em div,
-strong div,
-small div,
-cite div,
-q div,
-code div,
+abbr div, b div, i div, span div, em div,
+strong div, small div, cite div, q div, code div,
 label div,
 [tabindex]:not([tabindex="0"]):not([tabindex="-1"]),
-li.divider:not([role="separator"]),
-li:empty:not([role="separator"]),
+li.divider:not([role="separator"]), li:empty:not([role="separator"]),
 li.dropdown-header,
 .btn:not(button):not([href]),
 li.disabled > a[href]:not([tabindex="-1"]),
@@ -959,19 +772,13 @@ li.disabled > button:not([disabled]),
 a.disabled[href]:not([tabindex="-1"]),
 button.disabled:not([disabled]),
 [data-toggle="dropdown"]:not([aria-haspopup]) {
-	overflow : visible !important;
-}
+  overflow: visible !important; }
 
-a:not([href])::after,
-a[href=""]::after,
-a[href$="#"]::after,
-a[href^="javascript"]::after,
+a:not([href])::after, a[href=""]::after, a[href$="#"]::after, a[href^="javascript"]::after,
 .button:not(button):not([role="button"]):not([type="button"]):not([type="submit"]):not([type="reset"])::after,
 .btn:not(button):not([role="button"]):not([type="button"]):not([type="submit"]):not([type="reset"])::after,
 a[role="button"]:not([href*="/"]):not([href*="."]):not([href*="?"])::after,
-a[role="button"][href=""]::after,
-a[role="button"][href$="#"]::after,
-a[role="button"][href^="javascript"]::after,
+a[role="button"][href=""]::after, a[role="button"][href$="#"]::after, a[role="button"][href^="javascript"]::after,
 a[href].button[class*="disabled"]::after,
 a[href].disabled::after,
 a[href][class*="button"][class*="disabled"]::after,
@@ -986,31 +793,10 @@ figcaption::after,
 form:not([action])::after,
 fieldset > *:first-child:not(legend)::after,
 button.disabled:not([disabled]):not([readonly])::after,
-acronym::after,
-applet::after,
-basefont::after,
-center::after,
-dir::after,
-font::after,
-frame::after,
-frameset::after,
-isindex::after,
-listing::after,
-menu::after,
-multicol::after,
-plaintext::after,
-s::after,
-strike::after,
-u::after,
-xmp::after,
-bgsound::after,
-blink::after,
-comment::after,
-embed::after,
-marquee::after,
-nobr::after,
-noembed::after,
-wbr::after,
+acronym::after, applet::after, basefont::after, center::after, dir::after,
+font::after, frame::after, frameset::after, isindex::after, listing::after, menu::after, multicol::after,
+plaintext::after, s::after, strike::after, u::after, xmp::after, bgsound::after, blink::after, comment::after,
+embed::after, marquee::after, nobr::after, noembed::after, wbr::after,
 *:empty:not(script)::after,
 section > section:first-child::after,
 article > section:first-child::after,
@@ -1021,32 +807,19 @@ aside > aside:first-child::after,
 article > aside:first-child::after,
 aside > article:first-child::after,
 aside > section:first-child::after,
-body > header:not([role="banner"])::after,
-body > div > header:not([role="banner"])::after,
-body > footer:not([role="contentinfo"])::after,
-body > div > footer:not([role="contentinfo"])::after,
-section [role="banner"]::after,
-section [role="contentinfo"]::after,
-article [role="banner"]::after,
-article [role="contentinfo"]::after,
-aside [role="banner"]::after,
-aside [role="contentinfo"]::after,
+body > header:not([role="banner"])::after, body > div > header:not([role="banner"])::after,
+body > footer:not([role="contentinfo"])::after, body > div > footer:not([role="contentinfo"])::after,
+section [role="banner"]::after, section [role="contentinfo"]::after,
+article [role="banner"]::after, article [role="contentinfo"]::after,
+aside [role="banner"]::after, aside [role="contentinfo"]::after,
 #main:not(main):not([role="main"])::after,
 #footer:not(footer):not([role="contentinfo"])::after,
 #header:not(header):not([role="banner"])::after,
 #banner:not(header):not([role="banner"])::after,
-[align]::after,
-[alink]::after,
-[background]::after,
-[bgcolor]::after,
-[border]::after,
-[clear]::after,
-[height]::after,
-[hspace]::after,
-[link]::after,
-[nowrap]::after,
-[start]::after,
-[vlink]::after,
+[align]::after, [alink]::after, [background]::after,
+[bgcolor]::after, [border]::after, [clear]::after,
+[height]::after, [hspace]::after, [link]::after,
+[nowrap]::after, [start]::after, [vlink]::after,
 [vspace]::after,
 script[language]::after,
 table[summary]::after,
@@ -1054,20 +827,11 @@ ol > *:not(li)::after,
 ul > *:not(li)::after,
 dl > *:not(dt):not(dd)::after,
 dt + *:not(dd)::after,
-abbr div::after,
-b div::after,
-i div::after,
-span div::after,
-em div::after,
-strong div::after,
-small div::after,
-cite div::after,
-q div::after,
-code div::after,
+abbr div::after, b div::after, i div::after, span div::after, em div::after,
+strong div::after, small div::after, cite div::after, q div::after, code div::after,
 label div::after,
 [tabindex]:not([tabindex="0"]):not([tabindex="-1"])::after,
-li.divider:not([role="separator"])::after,
-li:empty:not([role="separator"])::after,
+li.divider:not([role="separator"])::after, li:empty:not([role="separator"])::after,
 li.dropdown-header::after,
 .btn:not(button):not([href])::after,
 li.disabled > a[href]:not([tabindex="-1"])::after,
@@ -1075,128 +839,87 @@ li.disabled > button:not([disabled])::after,
 a.disabled[href]:not([tabindex="-1"])::after,
 button.disabled:not([disabled])::after,
 [data-toggle="dropdown"]:not([aria-haspopup])::after {
-	display : inline-block !important;
-	background : #dc143c !important;
-	padding : 0.25em !important;
-	font-family : 'comic sans ms', cursive !important;
-	color : #fff !important;
-	font-size : 14px !important;
-	text-shadow : none !important;
-	font-weight : normal !important;
-	font-style : normal !important;
-}
+  display: inline-block !important;
+  background: #dc143c !important;
+  padding: 0.25em !important;
+  font-family: 'comic sans ms', cursive !important;
+  color: #fff !important;
+  font-size: 14px !important;
+  text-shadow: none !important;
+  font-weight: normal !important;
+  font-style: normal !important; }
 
 /**
 * Button and hyperlink errors
 ----------------------------------------------------------------------
 */
 a:not([href])::after {
-	content : 'Do you mean for this to be a link or a <button>? It does not link to anything!' !important;
-}
+  content: 'Do you mean for this to be a link or a <button>? It does not link to anything!' !important; }
 
-a[href=""]::after,
-a[href$="#"]::after,
-a[href^="javascript"]::after {
-	content : 'Do you mean for this to be a <button>? It is a link that does not go anywhere!' !important;
-}
+a[href=""]::after, a[href$="#"]::after, a[href^="javascript"]::after {
+  content: 'Do you mean for this to be a <button>? It is a link that does not go anywhere!' !important; }
 
 .button:not(a):not(button):not(input):not([tabindex])::after,
 .btn:not(a):not(button):not(input):not([tabindex])::after {
-	content : 'You are not using a standard focusable element for your "button". Can keyboard users focus on it?' !important;
-}
+  content: 'You are not using a standard focusable element for your "button". Can keyboard users focus on it?' !important; }
 
 a[role="button"]:not([href*="/"]):not([href*="."]):not([href*="?"])::after,
-a[role="button"][href=""]::after,
-a[role="button"][href$="#"]::after,
-a[role="button"][href^="javascript"]::after {
-	content : 'Either use a proper href fallback or just use a button element.' !important;
-}
+a[role="button"][href=""]::after, a[role="button"][href$="#"]::after, a[role="button"][href^="javascript"]::after {
+  content: 'Either use a proper href fallback or just use a button element.' !important; }
 
 a[href].button[class*="disabled"]::after,
 a[href].disabled::after,
 a[href][class*="button"][class*="disabled"]::after {
-	content : 'You cannot disable a hyperlink. Use a button element with disabled attribute or remove the href' !important;
-}
+  content: 'You cannot disable a hyperlink. Use a button element with disabled attribute or remove the href' !important; }
 
 [class*="toggle"]:not([aria-pressed]) {
-	content : 'If it is toggleable, you should supply an aria-pressed attribute.' !important;
-}
+  content: 'If it is toggleable, you should supply an aria-pressed attribute.' !important; }
 
 form button:not([type])::after {
-	content : 'Is this a submit button, a reset button or just a button? Use type="submit", type="reset" or type="button".' !important;
-}
+  content: 'Is this a submit button, a reset button or just a button? Use type="submit", type="reset" or type="button".' !important; }
 
 a:empty:not([aria-label]):not([aria-labelledby])::after,
 button:empty:not([aria-label]):not([aria-labelledby])::after,
 button:not([aria-label]):not([aria-labelledby]) img:only-child:not([alt])::after,
 a:not([aria-label]):not([aria-labelledby]) img:only-child:not([alt])::after {
-	content : 'All buttons and links should have text content, an image with alt text or an ARIA label.' !important;
-}
+  content: 'All buttons and links should have text content, an image with alt text or an ARIA label.' !important; }
 
 figcaption::after {
-	content : '<figcaption>s must belong to parent <figure>s.' !important;
-}
+  content: '<figcaption>s must belong to parent <figure>s.' !important; }
 
 figure figcaption::after {
-	content : '' !important;
-	display : none !important;
-}
+  content: '' !important;
+  display: none !important; }
 
 /**
 * Form errors
 ----------------------------------------------------------------------
 */
 form:not([action])::after {
-	content : 'Forms must have action attributes.' !important;
-}
+  content: 'Forms must have action attributes.' !important; }
 
 fieldset > *:first-child:not(legend)::after {
-	content : 'Place a legend as the first element in this fieldset.' !important;
-}
+  content: 'Place a legend as the first element in this fieldset.' !important; }
 
 button.disabled:not([disabled]):not([readonly])::after {
-	content : 'Use a disabled or readonly attribute on this button.' !important;
-}
+  content: 'Use a disabled or readonly attribute on this button.' !important; }
 
 /**
 * Deprecated, obsolete and proprietary elements
 ----------------------------------------------------------------------
 */
-acronym::after,
-applet::after,
-basefont::after,
-big::after,
-center::after,
-dir::after,
-font::after,
-frame::after,
-frameset::after,
-isindex::after,
-listing::after,
-menu::after,
-multicol::after,
-plaintext::after,
-strike::after,
-u::after,
-xmp::after,
-bgsound::after,
-blink::after,
-comment::after,
-embed::after,
-marquee::after,
-nobr::after,
-noembed::after,
-wbr::after {
-	content : 'This element is deprecated, non-standard or obsolete.' !important;
-}
+acronym::after, applet::after, basefont::after, big::after, center::after, dir::after,
+font::after, frame::after, frameset::after, isindex::after, listing::after, menu::after, multicol::after,
+plaintext::after, strike::after, u::after, xmp::after, bgsound::after, blink::after, comment::after,
+embed::after, marquee::after, nobr::after, noembed::after, wbr::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
 
 /**
 * Empty elements
 ----------------------------------------------------------------------
 */
 *:empty:not(script):not(input):not(br):not(img):not(link):not(hr):not(embed):not(area):not(command):not(col):not(param):not(source):not(track):not(wbr):not(base):not(keygen)::after {
-	content : 'This element is empty. Why?' !important;
-}
+  content: 'This element is empty. Why?' !important; }
 
 /**
 * Sectioning elements, headers and footers
@@ -1211,68 +934,41 @@ aside > aside:first-child::after,
 article > aside:first-child::after,
 aside > article:first-child::after,
 aside > section:first-child::after {
-	content : 'Sectioning elems are not arbitrary wrappers. Use <div>s here.' !important;
-}
+  content: 'Sectioning elems are not arbitrary wrappers. Use <div>s here.' !important; }
 
-body > header:not([role="banner"])::after,
-body > div > header:not([role="banner"])::after {
-	content : 'Use role="banner" on this header element.' !important;
-}
+body > header:not([role="banner"])::after, body > div > header:not([role="banner"])::after {
+  content: 'Use role="banner" on this header element.' !important; }
 
-body > footer:not([role="contentinfo"])::after,
-body > div > footer:not([role="contentinfo"])::after {
-	content : 'Use role="contentinfo" on this footer element.' !important;
-}
+body > footer:not([role="contentinfo"])::after, body > div > footer:not([role="contentinfo"])::after {
+  content: 'Use role="contentinfo" on this footer element.' !important; }
 
-section [role="banner"]::after,
-section [role="contentinfo"]::after,
-article [role="banner"]::after,
-article [role="contentinfo"]::after,
-aside [role="banner"]::after,
-aside [role="contentinfo"]::after {
-	content : 'Do not put [role="banner"] or [role="contentinfo"] inside a subsection.' !important;
-}
+section [role="banner"]::after, section [role="contentinfo"]::after,
+article [role="banner"]::after, article [role="contentinfo"]::after,
+aside [role="banner"]::after, aside [role="contentinfo"]::after {
+  content: 'Do not put [role="banner"] or [role="contentinfo"] inside a subsection.' !important; }
 
 #main:not(main):not([role="main"])::after {
-	content : 'Use the standard <main> element or role of main.' !important;
-}
+  content: 'Use the standard <main> element or role of main.' !important; }
 
 #footer:not(footer):not([role="contentinfo"])::after {
-	content : 'Use the standard <footer> element or contentinfo role' !important;
-}
+  content: 'Use the standard <footer> element or contentinfo role' !important; }
 
 #header:not(header):not([role="banner"])::after,
 #banner:not(header):not([role="banner"])::after {
-	content : 'Use the standard <footer> element or contentinfo role' !important;
-}
+  content: 'Use the standard <footer> element or contentinfo role' !important; }
 
 /**
 * Bad attribute usage
 ----------------------------------------------------------------------
 */
-[align]::after,
-[alink]::after,
-[background]::after,
-[bgcolor]::after,
-[border]::after,
-[clear]::after,
-[height]::after,
-[hspace]::after,
-[link]::after,
-[nowrap]::after,
-[start]::after,
-[vlink]::after,
-[vspace]::after {
-	content : 'You are using a deprecated attribute. Use CSS instead.' !important;
-}
+[align]::after, [alink]::after, [background]::after, [bgcolor]::after, [border]::after, [clear]::after, [height]::after, [hspace]::after, [link]::after, [nowrap]::after, [start]::after, [vlink]::after, [vspace]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
 
 script[language]::after {
-	content : 'The language attribute is superceded by type. Use type.' !important;
-}
+  content: 'The language attribute is superceded by type. Use type.' !important; }
 
 table[summary]::after {
-	content : 'The summary attribute is deprecated. Perhaps use the <caption> element.' !important;
-}
+  content: 'The summary attribute is deprecated. Perhaps use the <caption> element.' !important; }
 
 /**
 * List errors
@@ -1280,73 +976,54 @@ table[summary]::after {
 */
 ol > *:not(li)::after,
 ul > *:not(li)::after {
-	content : 'Only <li> can be a direct child of <ul> or <ol>.' !important;
-}
+  content: 'Only <li> can be a direct child of <ul> or <ol>.' !important; }
 
 dl > *:not(dt):not(dd)::after {
-	content : 'This element does not belong directly inside a definition list.' !important;
-}
+  content: 'This element does not belong directly inside a definition list.' !important; }
 
 dt + *:not(dd)::after {
-	content : 'Definitions must follow definition titles.' !important;
-}
+  content: 'Definitions must follow definition titles.' !important; }
 
 /**
 * <div>s in the wrong places
 ----------------------------------------------------------------------
 */
-abbr div::after,
-b div::after,
-i div::after,
-span div::after,
-em div::after,
-strong div::after,
-small div::after,
-cite div::after,
-q div::after,
-code div::after,
+abbr div::after, b div::after, i div::after, span div::after, em div::after,
+strong div::after, small div::after, cite div::after, q div::after, code div::after,
 label div::after {
-	content : 'Do not put <div>s inside inline elements.' !important;
-}
+  content: 'Do not put <div>s inside inline elements.' !important; }
 
 /**
 * Crazy tabindexing
 ----------------------------------------------------------------------
 */
 [tabindex]:not([tabindex="0"]):not([tabindex="-1"])::after {
-	content : 'Do not disrupt the natural tab order.' !important;
-}
+  content: 'Do not disrupt the natural tab order.' !important; }
 
 /* Boot Crap (specific to Twitter BootStrap class misuse)
 -----------------------------------------------------------------------------*/
 /* Don't use list elements to divide up list elements.
 Use a class-based style on the preceeding or proceeding element or use role="separator"
 on the item in question */
-li.divider:not([role="separator"])::after,
-li:empty:not([role="separator"])::after {
-	content : 'Do not use list items to divide up lists unless they have role = separator' !important;
-}
+li.divider:not([role="separator"])::after, li:empty:not([role="separator"])::after {
+  content: 'Do not use list items to divide up lists unless they have role = separator' !important; }
 
 /* For obvious reasons, a header for a list should not be an item in that list.
 Make two lists! */
 li.dropdown-header::after {
-	content : 'Do not use list items as headers for lists, obvs' !important;
-}
+  content: 'Do not use list items as headers for lists, obvs' !important; }
 
 /* Only <button>s and, to a lesser extent, <a>s WITH HREFS are keyboard functional as "buttons" */
 .btn:not(button):not([href])::after {
-	content : 'This is not an accessible control. Use a <button> or a <a> with href.' !important;
-}
+  content: 'This is not an accessible control. Use a <button> or a <a> with href.' !important; }
 
 /* Disabled links and buttons should be disabled correctly */
 li.disabled > a[href]:not([tabindex="-1"])::after,
 li.disabled > button:not([disabled])::after,
 a.disabled[href]::after,
 button.disabled:not([disabled])::after {
-	content : 'Disable buttons with disabled attr and links by removing href' !important;
-}
+  content: 'Disable buttons with disabled attr and links by removing href' !important; }
 
 /* The submenu should be indicated with aria-haspopup */
 [data-toggle="dropdown"]:not([aria-haspopup])::after {
-	content : 'Indicate the hidden menu with aria-haspopup' !important;
-}
+  content: 'Indicate the hidden menu with aria-haspopup' !important; }
